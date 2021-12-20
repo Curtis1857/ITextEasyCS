@@ -3,7 +3,6 @@ using System.Drawing;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 
-// arc
 namespace iTextEasyCS
 {
 
